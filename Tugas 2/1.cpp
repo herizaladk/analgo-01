@@ -21,7 +21,7 @@ int main()
 			maks = x[i];
 		i++;
 	}
-	cout << "Maksimum Number : " << maks << endl;
+	cout << "Angka Maksimal : " << maks << endl;
 
 	return 0;
 }
